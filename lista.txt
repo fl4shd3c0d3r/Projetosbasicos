@@ -1,0 +1,7 @@
+admin
+ftp
+root
+msfadmin
+administrator
+administrador
+anonymous
